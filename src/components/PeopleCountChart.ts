@@ -1,4 +1,4 @@
-import { Vue, Component, Mixins, Prop } from "vue-property-decorator";
+import { Component, Mixins, Prop } from "vue-property-decorator";
 import Chart from "chart.js";
 import { Line, mixins } from "vue-chartjs";
 
